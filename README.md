@@ -1,3 +1,3 @@
 # expenses_tracker
 
-A new Flutter project.
+PLP final, Flutter project, submission.
